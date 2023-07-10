@@ -1,0 +1,20 @@
+section{
+    height: 50vh;
+    width: 98%;
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-left: 10px;
+    border: 10px red double;
+}
+
+
+
+div{
+    width: 30%;
+    height: 15vh;
+    background-color: brown;
+    
+
+}
